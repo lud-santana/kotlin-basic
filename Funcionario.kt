@@ -1,0 +1,1 @@
+open class Funcionario (val nome: String, val cpf: String, val salario: Double, val contaCorrente: ContaCorrente) {}
